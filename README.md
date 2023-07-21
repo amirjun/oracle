@@ -1,0 +1,2 @@
+# oracle
+small python project 
