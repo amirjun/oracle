@@ -5,7 +5,7 @@ from random import *
 app = QApplication([])
 window = QWidget()
 window.resize(500, 300)
-words = QLabel('Задай вопрос оракулу.')
+words = QLabel('Задай вопрос оракулу!')
 button = QPushButton('Получить ответ')
 line = QVBoxLayout()
 line.addWidget(words)
